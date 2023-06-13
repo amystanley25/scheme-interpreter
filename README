@@ -1,0 +1,1 @@
+Implemented a Scheme interpreter using Python as the base language; functionality includes user-defined methods, special forms such as and/or/conditional clause/macros/mu/lambda/etc., and tail-recursion was included to optimize time and space complexity.
